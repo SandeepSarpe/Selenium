@@ -1,0 +1,8 @@
+emailURL='http://www.gmail.com'
+opensiloURL = 'http://qa.opensilo.co/'
+browser = 'firefox'
+emailsite = 'imap.gmail.com'
+emailsubject = 'Welcome To OpenSilo!'
+emailid = 'sandeep.sarpe@gmail.com'
+password = 'opensilo'
+testdatapath = '/Volumes/Data/OPenSiloAutomation/workspace/opensilo/src/Testdata.csv'
